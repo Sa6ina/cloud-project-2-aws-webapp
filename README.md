@@ -26,13 +26,17 @@ The project is documented step by step and published on GitHub.
 
 \## Architecture
 
-User → EC2 (Web Server) → S3 (Static Content)
+!\[Architecture Diagram](architecture/architecture.png)
+
+
+
+\*\*Flow:\*\*
+
+User → Internet Gateway → VPC → Public Subnet → EC2 (Nginx Web Server)
 
 
 
 \## Status
 
 Phase 1 – Project initialization
-
-
 
