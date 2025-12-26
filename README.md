@@ -30,7 +30,7 @@ The project is documented step by step and published on GitHub.
 
 
 
-\*\*Flow:\*\*
+
 
 User → Internet Gateway → VPC → Public Subnet → EC2 (Nginx Web Server)
 
