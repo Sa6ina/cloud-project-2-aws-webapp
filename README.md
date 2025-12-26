@@ -26,7 +26,7 @@ The project is documented step by step and published on GitHub.
 
 \## Architecture
 
-!\[Architecture Diagram](https://github.com/Sa6ina/cloud-project-2-aws-webapp/blob/main/architecture/architecture.png)
+!\[Architecture Diagram](https://raw.githubusercontent.com/Sa6ina/cloud-project-2-aws-webapp/blob/main/architecture/architecture.png)
 
 
 
